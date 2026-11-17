@@ -1,4 +1,3 @@
-::: {align="center"}
 # Hi, I'm Vishnu Vardhan Varma 👋
 
 ### Python Full-Stack Developer \| Generative AI Developer
@@ -116,7 +115,4 @@ news, then uses an LLM to produce analysis.
 -   📧 Email: vishnuvardhangopathi@gmail.com
 
 ------------------------------------------------------------------------
-
-::: {align="center"}
-*Building, learning, and improving one project at a time.*
-:::
+*Building, learning, and improving projects at a time.*
